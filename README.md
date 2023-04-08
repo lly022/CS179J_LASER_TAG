@@ -45,6 +45,7 @@ However, we would like to provide a more concrete way of evaluating our project.
 ## Additional Links
 ### Final Project Presentation
 
-The following link contains more detailed information about the project (project development, techinical details, etc.) not included in this README.
+The following link contains more detailed information about the project (project development, techinical details, etc.) not included in this README.  
+
 https://docs.google.com/presentation/d/1vK2SCP340fSqIO7Y1aTpx_e-loKFyNnFnSbsBWNQeLI/edit#slide=id.g108075af6293bdab_10
 
