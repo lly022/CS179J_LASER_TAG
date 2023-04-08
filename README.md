@@ -16,11 +16,11 @@ This project is useful as it provides a convenient way of playing laser tag. Ins
 
 ## Design Outline
 ### Blaster Schematic Diagram
-![Blaster Schematic](Blaster_Schematic.png)
+![Blaster Schematic](Blaster_Schematic.png)  
 These components (including the wringing) are attached to the blaster made of pvc pipe.
 
 ### Vest Schematic Diagram
-![Vest Schematic](Vest_Schematic.png)
+![Vest Schematic](Vest_Schematic.png)  
 These components (including the wringing) are attached to the same NodeMCU in the blaster schematic diagram to create one set of laser tag equipment for one player. 
 
 ## Evaluation Metric
