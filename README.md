@@ -1,5 +1,5 @@
 # Laser Tag 
-CS179J - Senior Design Project   
+CS179J (Project in CS: Computer Architecture and Embedded Systems) - Senior Design Project   
 Created by **Team n = 4**: Linda Ly, Justin Figueroa, Charles Alaras, Steven Hoang
 
 ## What is the project?
@@ -44,5 +44,7 @@ However, we would like to provide a more concrete way of evaluating our project.
 
 ## Additional Links
 ### Final Project Presentation
+
+The following link contains more detailed information about the project (project development, techinical details, etc.) not included in this README.
 https://docs.google.com/presentation/d/1vK2SCP340fSqIO7Y1aTpx_e-loKFyNnFnSbsBWNQeLI/edit#slide=id.g108075af6293bdab_10
 
